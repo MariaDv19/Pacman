@@ -1,2 +1,2 @@
-# Pacman
-Pacman exercise made in class
+# Práctica
+Ejercicios de práctica en JS
